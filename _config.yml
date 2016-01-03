@@ -19,4 +19,4 @@ github_username:
 markdown: kramdown
 
 # Outputting
-permalink:     /:categories/:title.html
+permalink:     /:title.html
