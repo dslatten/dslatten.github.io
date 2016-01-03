@@ -7,13 +7,16 @@
 
 # Site settings
 title: Darren Slatten
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Just another gifted millennial searching for joy, purpose, and spiritual enlightenment.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darrenslatten.com" # the base hostname & protocol for your site
 twitter_username: DarrenSlatten
-github_username:  dslatten
+github_username:  
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink:     /:categories/:title.html
