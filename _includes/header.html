@@ -14,11 +14,7 @@
       </a>
 
       <div class="trigger">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: inline;">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="3KAWR8X7AWACS">
-          <input type="submit" value="Donate">
-        </form>
+        <a class="page-link" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3KAWR8X7AWACS">Donate</a>
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
