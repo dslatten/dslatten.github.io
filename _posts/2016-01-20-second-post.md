@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Post"
-date:   2016-01-20 18:02:00 -0600
+date:   2016-01-20 12:02:00 -0600
 ---
 It's absolutely amazing how I can create a first post and tell myself something like:
 
