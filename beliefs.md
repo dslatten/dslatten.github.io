@@ -43,13 +43,14 @@ d. An alien lands a spacecraft on your lawn, walks inside your house, eats all y
 
 Most people have been taught that success is measured in money, material wealth, and fame. That definition just doesn't work for me. Those things don't inspire me. What inspires me is the thought that I can make a positive impact on the planet before I die. Success is a measurement of this impact, i.e., <em>how much <strong>good</strong>rippled outward from my existence</em>?
 
- - How many hearts did I make feel love?
- - How many mouths did I feed?
- - How many minds did I teach?
- - How many smiles did I create?
- - How many people did I empower?
+* How many hearts did I make feel love?
+* How many mouths did I feed?
+* How many minds did I teach?
+* How many smiles did I create?
+* How many people did I empower?
 
 You get the idea.
 
 # 5. It's not what you know, it's what you do
 
+Consequentialism
