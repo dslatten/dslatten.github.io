@@ -13,10 +13,12 @@ A person's beliefs are incredibly powerful. <strong>People kill and are willing 
 I know it's possible to think your way into the belief that nothing is good or bad; everything <strong>just is</strong>, but for me, that feels too much like <em>life has no meaning; you just pay bills and die</em>. The truth is I have choices. I have infinite possible choices to make, every second of my life, and I need a system for differentiating the <em>good</em> choices from the <em>bad</em> ones.
 
 <strong>Good:</strong>
+
 * Creates love, joy, gratitude, etc.
 * Eases suffering
 
 <strong>Bad:</strong>
+
 * Creates fear, anger, shame, etc.
 * Increases suffering
 
