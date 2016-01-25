@@ -18,7 +18,9 @@ permalink: /practices.html
 * ~0.125g rhodiola root powder
 
 ## Emotional
+
 ## Physical
+
 ## Spiritual
 
 # Unscheduled / As-Needed
