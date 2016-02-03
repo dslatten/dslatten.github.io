@@ -48,7 +48,7 @@ Harness the good, release the bad.
 Improve your thinking.
 
 * Challenge your beliefs
-* Drink coffee
+* tDCS 1.5mA x 30 min.
 
 ## Spiritual
 Connect with the unknown.
