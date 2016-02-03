@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Killer Grammar"
-date:   2015-02-03 12:00:00 -0600
+date:   2016-02-03 10:00:00 -0600
 ---
 I've started listing some of my more valuable items on Craigslist. Everything else will be *garage saled* this weekend.
 
