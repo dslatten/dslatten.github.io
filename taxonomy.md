@@ -11,7 +11,7 @@ The secondary purpose is to provide an overview of various *post types*, which c
 
 > I want to create a new post, but I don't know what to write about. What are some options?
 
-Here is a content outline:
+**Here is a content outline:**
 
 * Resources
     * Pages
@@ -19,7 +19,7 @@ Here is a content outline:
         * Uncategorized
 * Data
 
-Here is a description of each item in the outline:
+**Here is a description of each item in the outline:**
 
 ## Resources
 
