@@ -18,3 +18,22 @@ Here is a content outline:
     * Posts
         * Uncategorized
 * Data
+
+Here is a description of each item in the outline:
+
+## Resources
+
+Publicly-accessible HTML documents that are intended to be viewed in a web browser.
+
+### Pages
+
+
+### Posts
+
+
+#### Uncategorized
+
+
+## Data
+
+
