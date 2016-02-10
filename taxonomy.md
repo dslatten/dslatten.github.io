@@ -11,6 +11,8 @@ The secondary purpose is to provide an overview of various *post types*, which c
 
 > I want to create a new post, but I don't know what to write about. What are some options?
 
+---
+
 **Here is a content outline:**
 
 * Resources
@@ -18,6 +20,8 @@ The secondary purpose is to provide an overview of various *post types*, which c
     * Posts
         * Uncategorized
 * Data
+
+---
 
 **Here is a description of each item in the outline:**
 
@@ -36,4 +40,5 @@ Publicly-accessible HTML documents that are intended to be viewed in a web brows
 
 ## Data
 
+This doesn't exist yet, but I'm imagining this website becoming a sort of hub for all things *Darren Slatten*, which may include features that monitor food/supplement intake, exercise, mental health, etc.
 
