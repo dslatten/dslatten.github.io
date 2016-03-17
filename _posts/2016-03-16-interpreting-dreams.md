@@ -11,4 +11,4 @@ Now throw all that into a blender and you might get the following dream...
 
 I am at my mom's house with my ex/bff. For whatever reason, there's a hot tub in the living room, and I'm convinced it's the perfect setting for trying to have sex with my ex/bff. Unfortunately, the water is dirty, so I begin pumping it through a hose that looks suspiciously-similar to the one on my dad's vacuum. Then my brother shows up and tosses me a small bar of gold--maybe 2 or 3 ounces. I'm mildly impressed, but then our attention turns to the hot tub, which is almost completely drained at this point. At the bottom, we discover an assortment of gold nuggets, bars, and coins. I glance excitedly at my ex/bff, but she frowns at me and says, "You're just a gold-diggin' whore!"
 
-Okay, so I made that last part up. I actually woke up after discovering the gold. That woulda been a sweet punchline though.
+Okay, so I made that last part up. I actually woke up after discovering the gold. That woulda been a sweet punchline though. 
