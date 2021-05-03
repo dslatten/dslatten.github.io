@@ -10,7 +10,7 @@ title: Darren Slatten
 email: 
 description: A relic from that time I thought I would start writing regularly.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://darrenslatten.com" # the base hostname & protocol for your site
+url: "https://darrenslatten.com" # the base hostname & protocol for your site
 twitter_username: DarrenSlatten
 github_username:  
 
