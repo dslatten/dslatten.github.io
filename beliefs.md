@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Beliefs
+excerpt: This page is about my beliefs.
 permalink: /beliefs.html
 ---
 
