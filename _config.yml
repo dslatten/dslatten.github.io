@@ -8,8 +8,7 @@
 # Site settings
 title: Darren Slatten
 email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Get spiritual or die tryin'.
+description: A relic from that time I thought I would start writing regularly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://darrenslatten.com" # the base hostname & protocol for your site
 twitter_username: DarrenSlatten
