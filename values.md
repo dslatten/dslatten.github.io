@@ -4,31 +4,34 @@ title: Values
 permalink: /values.html
 ---
 
-I just realized I created a <em>Donate</em> page before this <em>Values</em> page. Psh...typical American business plan, am I right?
-
-No but seriously, the <em>Donate</em> link was more symbolic than anything else. Sure, I may occasionally exhibit signs of mania and delusions of grandeur, but even \*I\* have to admit that my currently-one-post blog offers virtually nothing of value to anyone. However, like I said, the <em>Donate</em> link is <em>symbolically important</em>, because it represents the <strong>possibility</strong> of making money from my writing. In tech startup parlance, you might say it marks the release of my <em>minimum viable product</em>--just as the rest of us might nod while silently wondering wtf you're talking about.
-
-> [Ahem...your values, Sir?]
-
-Right. Sorry. Values are important!
-
-> [Nicely done, Sir.]
-
-No no, there's more. Values are important because they have an incredible amount of influence over your <strong>happiness</strong>. After struggling with depression for something like 20 years, I'm <em>finally</em> understanding the connection between my "illness" and my choices/behaviors that forsake my values. In essence, I've come to understand that depression is the natural result of living your life according to <em>someone else's values</em>. Some people can ignore this feeling better than others. For me, this feeling inevitably grows into a monster that eventually destroys everything I've used to distract myself from it. Therefore, if I am to have any chance at all of slaying said monster (I call him <em>Sadzilla!</em> (No...no I don't)), then I need to really nail down these values as explicitly as possible. I need to define my own personal <strong>moral compass</strong> with which to navigate the treacherous waters of human life.
-
-So here we go. I'm going to resist the urge to google [how to determine personal values] and just wing it. I can (and almost certainly will) modify this page later.
-
 # My Personal Values
 
-## 1. Integrity
-To thine own self be true. Which self? Your <em>higher</em> self. The self that believes in these values and strives to uphold them at all times. Pursue your passion. Do things because you believe in them--not because "society" tells you to.
+Here is a list of my personal values, in order of priority.
 
-## 2. Honesty
-Always seek the truth. Always disclose the truth when you believe the "good" effects will objectively outweigh the "bad" effects. Base this decision on how the truth affects <em>others</em>--not how it affects you personally. Especially be honest with yourself. Acknowledge your mistakes. Admit when you're wrong.
+## 1. Truth
+There are many ways to interpret this. There's Truth with a capital T. Surely that's important. But in the context of personal values, I'm more focused on truth as it pertains to the information I'm consuming, my beliefs, and the information I'm spreading. 
 
-## 3. Compassion
-Remember that we're all the same. We all suffer in some way. We all have fears and insecurities. We're all doing the best we can with what we have and what we know. Avoid judgment. Remember, if you were in their shoes, you'd do the exact same thing. 
+Regarding consumption, I pursue information of the highest quality. I listen to experts. I believe in science. I start every inquiry by seeking the most reputable sources of information. But I don't worship science. I respect it, but I'm well aware of its limitations. I maintain a healthy skepticism, especially in matters of personal experience, which science has little to say about.
 
-## 4. Growth
-Never stop growing, learning, and evolving. You will never have all the answers. Life is a journey, not a destination. Don't get too comfortable--that's when you stagnate. Suffering is an opportunity for growth and creativity. Challenge everything; assume nothing. You will be wrong. A lot. Get over it.
+Regarding my beliefs, naturally I prefer not to harbor false beliefs. In a spiritual context, I realize absolute truth doesn't have room for beliefs; it has no room for language or objects, much less beliefs about them. I'm aware that all beliefs are relative, and none are absolutely true. But as an embodied being in a physical universe, that doesn't help me. So in a simple, everyday context, I try to reason my way into any given position. If possible, I construct my beliefs from first principles. I am mindful of any beliefs that I've adopted from outside influences, e.g., culture, religion, media, etc. I appreciate when my beliefs are challenged, because it's an opportunity to uncover better truths.
+
+Regarding the information I'm spreading, this means ideally I never have to lie. Lying, to me, is a sign of a larger problem, e.g., I'm associating with the wrong people or I'm not being authentic. The value of Honesty falls under this category.
+
+## 2. Love
+This is a close second to Truth, and in some cases, I might even prioritize it over truth. Love is what life is all about. It is the point of being human, of being alive. I want to give and receive love freely. I want my family and friends to know I love them. Perhaps most importantly, I want to love myself. I place a high value on my personal relationships, and I consider that something that falls under this value of Love.
+
+## 3. Authenticity
+Self-awareness and self-love are very important. Authenticity to me means exploring who I am, facing my shadow, embodying my values, and loving myself enough to <em>be</em> myself. This also means getting in touch with my emotions and expressing them in a healthy way (instead of repressing them).
+
+## 4. Vulnerability
+Without vulnerability, there is no growth and no courage. The depth of one's relationships is limited by the depth of their vulnerability. I value vulnerability because it is the key to better relationships and personal growth. 
+
+## 5. Growth
+Never stop growing, learning, and evolving. You will never have all the answers. Life is a journey, not a destination. Don't get too comfortable--that's when you stagnate. Suffering is an opportunity for growth and creativity. Challenge everything; assume nothing. You will be wrong. A lot. Get over it. Remain humble and curious.
+
+## 6. Compassion
+We're all the same. We all suffer in some way. We all have fears and insecurities. We're all doing the best we can with what we have and what we know. I strive to avoid judgment of others. People are the product of their genes and environment, neither of which they had any control over. I'm not better than anyone, I'm just luckier. Treat others with kindness. Help those who are less fortunate than you. 
+
+## 7. Integrity
+I strive to act in alignment with my values, even when it hurts. Especially when it hurts.
 
