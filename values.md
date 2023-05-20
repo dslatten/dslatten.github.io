@@ -29,9 +29,5 @@ Without vulnerability, there is no growth and no courage. The depth of one's rel
 ## 5. Growth
 Never stop growing, learning, and evolving. You will never have all the answers. Life is a journey, not a destination. Don't get too comfortable--that's when you stagnate. Suffering is an opportunity for growth and creativity. Challenge everything; assume nothing. You will be wrong. A lot. Get over it. Remain humble and curious.
 
-## 6. Compassion
-We're all the same. We all suffer in some way. We all have fears and insecurities. We're all doing the best we can with what we have and what we know. I strive to avoid judgment of others. People are the product of their genes and environment, neither of which they had any control over. I'm not better than anyone, I'm just luckier. Treat others with kindness. Help those who are less fortunate than you. 
-
-## 7. Integrity
+## 6. Integrity
 I strive to act in alignment with my values, even when it hurts. Especially when it hurts.
-
